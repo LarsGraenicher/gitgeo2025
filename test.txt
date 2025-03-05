@@ -1,3 +1,8 @@
 Hallo Welt ich bin die erste GIT Datei
 
+Hallo vom Test branch :-)
+
 ich ändere etwas
+
+Zeile test_branch
+
